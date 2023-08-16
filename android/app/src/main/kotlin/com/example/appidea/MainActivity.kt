@@ -1,4 +1,4 @@
-package com.example.appidea
+package com.roomapp
 
 import io.flutter.embedding.android.FlutterActivity
 
